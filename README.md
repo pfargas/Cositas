@@ -7,6 +7,6 @@
 
 - Efecte Tunel
 - Principi d'incertesa de Heisenberg
-- Entrellçament
+- Entrellaçament
 - RELATIVITAT (ESPECIAL)
 - 
