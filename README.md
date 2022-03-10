@@ -20,3 +20,9 @@
 - Començar amb les coses rares: SUPERPOSICIÓ (gat de Schrödinger) Efecte túnel i entrellaçament com a principals
 - Lo de relativitat ja veurem com es fa
 - Jugar amb barreres de potencial i fer els problemes 1D al màxim
+
+### PLAYSTYLE
+
+- Menu circular amb els objectes necessaris: Mesurador de posició, moment, làser per augmentar E... (són exemples, no cal que fem aquests ni res)
+###### Efecte túnel
+- Potencial barrera quadrada (posem parets?). Es podria representar amb un "canó" de partícules que disparen a una paret (una paret tova, tal que la seva energia per traspassar V sigui V>E E=energia particula) i simular un detector a l'altra banda amb els càlculs de probabilitats correctes (estan fets als apunts de FQ)
