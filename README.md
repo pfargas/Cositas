@@ -27,6 +27,7 @@
 ###### Efecte túnel
 - Potencial barrera quadrada (posem parets?). Es podria representar amb un "canó" de partícules que disparen a una paret (una paret tova, tal que la seva energia per traspassar V sigui V>E E=energia particula) i simular un detector a l'altra banda amb els càlculs de probabilitats correctes (estan fets als apunts de FQ)
 
+________________________________________________________________________________________________________________________________________________
 
 # Naming Convention
 - SM_Rock_00 -> Static Mesh for rock version 00
