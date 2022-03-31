@@ -26,3 +26,11 @@
 - Menu circular amb els objectes necessaris: Mesurador de posició, moment, làser per augmentar E... (són exemples, no cal que fem aquests ni res)
 ###### Efecte túnel
 - Potencial barrera quadrada (posem parets?). Es podria representar amb un "canó" de partícules que disparen a una paret (una paret tova, tal que la seva energia per traspassar V sigui V>E E=energia particula) i simular un detector a l'altra banda amb els càlculs de probabilitats correctes (estan fets als apunts de FQ)
+
+
+# Naming Convention
+- SM_Rock_00 -> Static Mesh for rock version 00
+- T_Rock_00_BC-> Base Colour Texture for rock version 00
+- SKM_Rock_00 -> Skeletal Mesh for rock version 00
+- N_Rock_00 -> Normal map for rock version 00
+- MAT_Rock_00 -> Material for rock version 00
