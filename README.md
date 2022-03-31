@@ -33,5 +33,5 @@ ________________________________________________________________________________
 - SM_Rock_00 -> Static Mesh for rock version 00
 - T_Rock_00_BC-> Base Colour Texture for rock version 00
 - SKM_Rock_00 -> Skeletal Mesh for rock version 00
-- N_Rock_00 -> Normal map for rock version 00
+- T_Rock_00_N -> Normal map for rock version 00
 - MAT_Rock_00 -> Material for rock version 00
