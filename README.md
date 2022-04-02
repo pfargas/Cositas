@@ -35,3 +35,5 @@ ________________________________________________________________________________
 - SKM_Rock_00 -> Skeletal Mesh for rock version 00
 - T_Rock_00_N -> Normal map for rock version 00
 - MAT_Rock_00 -> Material for rock version 00
+
+REMEMBER TO NAME THE WORLD OUTLINER
