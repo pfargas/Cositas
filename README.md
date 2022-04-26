@@ -1,4 +1,17 @@
-# COSES PER FER
+# Descripció del videojoc
+
+Món 3D en primera persona (millor interacció personatge-mapa) amb l'objectiu de passar de sala en sala per arribar al final del recorregut. Per fer això s'haura de superar una sèrie de reptes on hi haurà involucrats diversos efectes quàntics com, per exemple, l'efecte túnel o l'entrellaçament. Si es pot també es farà una sèrie de sales extres amb efectes relativistes.
+Estarà pensat per un gran públic: s'exposaran tots els efectes quàntics abans de necessitar-se, amb una explicació rigorosa però entenedora i s'ensenyarà l'equació que segueix l'efecte descrit. Es recomana un nivell matemàtic de batxillerat, tot i que es podrà entendre qualitativament sense aquest requisit.
+
+# Objectius
+1. Desenvolupar un videojoc tipus puzzle on per avançar s'hagi d'aplicar un o varis efectes quàntics
+2. Exposar els efectes quàntics més comuns i vistosos 
+3. Càlcul numèric d'aquests efectes (com per exemple la resolució de l'equació de Schrödinger per aplicar l'efecte túnel
+## Estat actual
+- S'està estudiant el funcionament de Unreal Engine 4, modelització 3d i programació en c++; junt amb un curs de mecànica quàntica per tal de fer el joc el més fidel possible a la realitat d'avui. 
+
+_____________________________________________________________
+## COSES PER FER
 
 #### Fenomens a representar
 
