@@ -6,7 +6,7 @@ Estarà pensat per un gran públic: s'exposaran tots els efectes quàntics abans
 # Objectius
 1. Desenvolupar un videojoc tipus puzzle on per avançar s'hagi d'aplicar un o varis efectes quàntics
 2. Exposar els efectes quàntics més comuns i vistosos 
-3. Càlcul numèric d'aquests efectes (com per exemple la resolució de l'equació de Schrödinger per aplicar l'efecte túnel
+3. Càlcul numèric d'aquests efectes (com per exemple la resolució de l'equació de Schrödinger per aplicar l'efecte túnel)
 ## Estat actual
 - S'està estudiant el funcionament de Unreal Engine 4, modelització 3d i programació en c++; junt amb un curs de mecànica quàntica per tal de fer el joc el més fidel possible a la realitat d'avui. 
 
@@ -16,14 +16,29 @@ _____________________________________________________________
 #### Fenomens a representar
 
 - Efecte compton
+
+  $\Delta \lambda = \frac{h}{m_e c}(1-\cos\theta)$
 - Efecte fotoelectric
 
+$E=h\nu-W_0$ where $W_0\equiv h \nu_0$ is the minimum energy required to remove an electron from the surface of the material.
 - Efecte Tunel
+
+$-\frac{h^2}{4\pi m} \dfrac{d^2}{dx^2} \psi(x)+V(x)\psi(x)=E\psi(x)$
 - Principi d'incertesa de Heisenberg
+
+$\sigma_x\sigma_p\geq \frac{h}{4\pi}$
 - Entrellaçament
+
+$\psi(x)=\frac{1}{\sqrt{2}}(|+->+|-+>)$
 - DOBLE ESCLETXA I SUPERPOSICIÓ
+
+$d\sin\theta\approx d\theta$
 - Cos negre?
+
+Use it to control the energy of some laser by changing the temperature of the source
 - RELATIVITAT (ESPECIAL)
+
+Really difficult to implement
 
 ### IDEES
 
@@ -39,6 +54,8 @@ _____________________________________________________________
 - Menu circular amb els objectes necessaris: Mesurador de posició, moment, làser per augmentar E... (són exemples, no cal que fem aquests ni res)
 ###### Efecte túnel
 - Potencial barrera quadrada (posem parets?). Es podria representar amb un "canó" de partícules que disparen a una paret (una paret tova, tal que la seva energia per traspassar V sigui V>E E=energia particula) i simular un detector a l'altra banda amb els càlculs de probabilitats correctes (estan fets als apunts de FQ)
+- A nivells avançats, utilitzar la propietat de cos negre per canviar l'energia del làser.
+- Es podria fer que el jugador mai afectés la mesura: no fos un observador quàntic. Així pots veure que passa sense afectar la mesura i és molt més fàcil el codi
 
 ________________________________________________________________________________________________________________________________________________
 
