@@ -8,7 +8,7 @@ Estarà pensat per un gran públic: s'exposaran tots els efectes quàntics abans
 2. Exposar els efectes quàntics més comuns i vistosos 
 3. Càlcul numèric d'aquests efectes (com per exemple la resolució de l'equació de Schrödinger per aplicar l'efecte túnel)
 ## Estat actual
-- S'està estudiant el funcionament de Unreal Engine 4, modelització 3d i programació en c++; junt amb un curs de mecànica quàntica per tal de fer el joc el més fidel possible a la realitat d'avui. 
+- S'està estudiant el funcionament de Unreal Engine 5, modelització 3d i programació en c++ 
 
 _____________________________________________________________
 ## COSES PER FER
@@ -40,6 +40,10 @@ Use it to control the energy of some laser by changing the temperature of the so
 
 Really difficult to implement
 
+- Espectroscopia de masses com a concepte clàssic de com estudiar coses tant petites
+
+Just present the idea of how to explore those smaller things. Calculate a velocity selector and a mass spectrometer for an alpha sample
+
 ### IDEES
 
 - Començar per efecte fotoelèctric. Explicar el fenòmen extrany d'aquest efecte. Tenir-lo sempre present pero passar ràpid
@@ -51,7 +55,7 @@ Really difficult to implement
 
 ### PLAYSTYLE
 
-- Menu circular amb els objectes necessaris: Mesurador de posició, moment, làser per augmentar E... (són exemples, no cal que fem aquests ni res)
+- Menú circular amb els objectes necessaris: Mesurador de posició, moment, làser per augmentar E... (són exemples, no cal que fem aquests ni res)
 ###### Efecte túnel
 - Potencial barrera quadrada (posem parets?). Es podria representar amb un "canó" de partícules que disparen a una paret (una paret tova, tal que la seva energia per traspassar V sigui V>E E=energia particula) i simular un detector a l'altra banda amb els càlculs de probabilitats correctes (estan fets als apunts de FQ)
 - A nivells avançats, utilitzar la propietat de cos negre per canviar l'energia del làser.
